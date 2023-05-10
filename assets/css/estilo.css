@@ -1,0 +1,49 @@
+#banner{
+    position: absolute;
+    left: 785px;
+    top: 180px;
+    width: 225px;
+    width: center;
+}
+
+body {
+    background-color: #3CFFFE;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+fieldset {
+    position: absolute;
+    left: 750px;
+    top: 400px;
+    width: 250px;
+    background-color:#2E84A3;
+    text-align: center;
+}
+
+#button{
+    background-color: chartreuse;
+    width: 175px;  
+}
+
+#button.1{
+}
+
+#button.2{
+}
+
+#cadastrar{
+    background-color: chartreuse; 
+    width: 175px;
+}
+
+#cancelar{
+    background-color: red;
+    width: 175px;
+}
+
+#pais{
+    width: 175px;
+}
+
