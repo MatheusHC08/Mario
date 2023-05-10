@@ -1,7 +1,7 @@
 #banner{
     position: absolute;
     left: 785px;
-    top: 180px;
+    top: 140px;
     width: 225px;
     width: center;
 }
@@ -20,6 +20,7 @@ fieldset {
     width: 250px;
     background-color:#2E84A3;
     text-align: center;
+    padding-top: 50px;
 }
 
 #button{
@@ -45,5 +46,12 @@ fieldset {
 
 #pais{
     width: 175px;
+}
+
+.texto{
+    position:absolute;
+    top:400px;
+    left:780px;
+    text-align: center;
 }
 
